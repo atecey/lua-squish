@@ -1,0 +1,4 @@
+Main "src/main.lua"
+Module "module1" "src/module1.lua"
+Module "module1" "src/module2.lua"
+Output "dist.lua"
